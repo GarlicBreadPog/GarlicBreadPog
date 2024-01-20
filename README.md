@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GarlicBreadPog
-- 👀 I’m interested in coding of all sorts, hoping to one day become a game developer
+- 👀 I’m interested in coding of all sorts, hoping to one day become a game developer. I'm currently a programmer for the FIRST robotics competition team 1891, the bullbots.
 - 🌱 I’m currently learning Python, html, java, c# and hoping to familiarze myself with c eventually
 - 📫 How to reach me ... idk
 
